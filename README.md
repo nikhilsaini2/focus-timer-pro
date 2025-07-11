@@ -1,12 +1,14 @@
 # 🚀 FocusTimer – Boost Your Productivity with Pomodoro Technique
 
 <p align="center">
-  <img src="screenshot.png" alt="FocusTimer Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24;"/>
+  <img src="public/screenshot1.png" alt="FocusTimer Main Dashboard Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24; margin-bottom: 16px;"/>
+  <br />
+  <img src="public/screenshot2.png" alt="FocusTimer Features Overview Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24;"/>
 </p>
 
 > **A modern, visually stunning Pomodoro timer and productivity dashboard.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-orange?style=for-the-badge&logo=vercel)](https://your-live-demo-link.com)
+[![Visit Now](https://img.shields.io/badge/Visit%20Now-Live%20Demo-orange?style=for-the-badge&logo=vercel)](https://focus-timer-nine-tau.vercel.app/)
 
 ---
 
@@ -23,19 +25,21 @@
 
 ---
 
-## 🖼️ Screenshot
-
-> Add your own screenshot at `screenshot.png` for a real preview!
+## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshot.png" alt="App Screenshot" width="700"/>
+  <b>Main Dashboard</b><br />
+  <img src="public/screenshot1.png" alt="FocusTimer Main Dashboard Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24; margin-bottom: 32px;"/>
+  <br />
+  <b>Features Overview</b><br />
+  <img src="public/screenshot2.png" alt="FocusTimer Features Overview Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24;"/>
 </p>
 
 ---
 
 ## 🌍 Live Demo
 
-👉 [https://your-live-demo-link.com](https://your-live-demo-link.com)
+👉 [https://focus-timer-nine-tau.vercel.app/](https://focus-timer-nine-tau.vercel.app/)
 
 ---
 
@@ -54,8 +58,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/focustimer.git
-cd focustimer
+git clone https://github.com/nikhilsaini2/focus-timer-pro.git
+cd focus-timer-pro
 
 # 2. Install dependencies
 npm install
@@ -81,7 +85,7 @@ npm run dev
 ## 👤 Author
 
 **Nikhil Saini**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-linkedin)
+[GitHub](https://github.com/nikhilsaini2) · [LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
 
