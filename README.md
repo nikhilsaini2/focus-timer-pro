@@ -1,14 +1,22 @@
 # 🚀 FocusTimer – Boost Your Productivity with Pomodoro Technique
 
 <p align="center">
-  <img src="public/screenshot1.png" alt="FocusTimer Main Dashboard Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24; margin-bottom: 16px;"/>
+  <img src="screenshot1.png" alt="FocusTimer Main Dashboard Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24; margin-bottom: 8px;"/>
   <br />
-  <img src="public/screenshot2.png" alt="FocusTimer Features Overview Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24;"/>
+  <span style="font-size:1.1em; color:#fbbf24; font-weight:bold;">Main Dashboard</span>
+</p>
+
+<hr style="border: none; border-top: 2px solid #fbbf24; width: 60%; margin: 32px auto 24px auto;" />
+
+<p align="center">
+  <img src="screenshot2.png" alt="FocusTimer Features Overview Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24; margin-bottom: 8px;"/>
+  <br />
+  <span style="font-size:1.1em; color:#fbbf24; font-weight:bold;">Features Overview</span>
 </p>
 
 > **A modern, visually stunning Pomodoro timer and productivity dashboard.**
 
-[![Visit Now](https://img.shields.io/badge/Visit%20Now-Live%20Demo-orange?style=for-the-badge&logo=vercel)](https://focus-timer-nine-tau.vercel.app/)
+<a href="https://focus-timer-nine-tau.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LIVE%20DEMO-orange?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
 
 ---
 
@@ -25,31 +33,19 @@
 
 ---
 
-## 🖼️ Screenshots
-
-<p align="center">
-  <b>Main Dashboard</b><br />
-  <img src="public/screenshot1.png" alt="FocusTimer Main Dashboard Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24; margin-bottom: 32px;"/>
-  <br />
-  <b>Features Overview</b><br />
-  <img src="public/screenshot2.png" alt="FocusTimer Features Overview Screenshot" width="700" style="border-radius:16px; box-shadow:0 4px 32px #fbbf24;"/>
-</p>
-
----
-
 ## 🌍 Live Demo
 
-👉 [https://focus-timer-nine-tau.vercel.app/](https://focus-timer-nine-tau.vercel.app/)
+👉 <a href="https://focus-timer-nine-tau.vercel.app/" target="_blank" rel="noopener noreferrer">https://focus-timer-nine-tau.vercel.app/</a>
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js 15](https://nextjs.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/), Glassmorphism, Gradients
-- **Animation:** [GSAP](https://greensock.com/gsap/), [Framer Motion](https://www.framer.com/motion/)
-- **UI Components:** [Radix UI](https://www.radix-ui.com/), Custom SVGs
-- **Icons:** [Lucide](https://lucide.dev/)
+- **Framework:** <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">Next.js 15</a>
+- **Styling:** <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">Tailwind CSS</a>, Glassmorphism, Gradients
+- **Animation:** <a href="https://greensock.com/gsap/" target="_blank" rel="noopener noreferrer">GSAP</a>, <a href="https://www.framer.com/motion/" target="_blank" rel="noopener noreferrer">Framer Motion</a>
+- **UI Components:** <a href="https://www.radix-ui.com/" target="_blank" rel="noopener noreferrer">Radix UI</a>, Custom SVGs
+- **Icons:** <a href="https://lucide.dev/" target="_blank" rel="noopener noreferrer">Lucide</a>
 - **State & Persistence:** React Hooks, LocalStorage
 
 ---
@@ -84,8 +80,8 @@ npm run dev
 
 ## 👤 Author
 
-**Nikhil Saini**  
-[GitHub](https://github.com/nikhilsaini2) · [LinkedIn](https://linkedin.com/in/your-linkedin)
+**Nikhil Saini**  <br/>
+<a href="https://github.com/nikhilsaini2" target="_blank" rel="noopener noreferrer">GitHub</a> · <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
